@@ -18,7 +18,7 @@ window.addEventListener('load', function(){
 			  breakpoint: 800,
 			  settings: {
 				slidesToShow: 3,
-				slidesToScroll: 3
+				slidesToScroll: 1
 			  }
 			}
 		]
